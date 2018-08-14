@@ -14,7 +14,7 @@ def assign_rooms(array)
  speaker_rooms << array.each_with_index {|name, room| "Hello, #{name}! You'll be assigned to room #{room}!"}
 end
 
-def printer
+def printer(name)
  puts batch_badge_creator
  puts assign rooms
 end
