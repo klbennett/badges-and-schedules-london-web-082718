@@ -10,4 +10,4 @@ end
 
 def assign rooms(array)
   
-  array.each {|item| puts "Hello, my name is #{item}"}
+  array.each {|item| puts " #{item}"}
