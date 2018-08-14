@@ -10,6 +10,7 @@ end
 
 def assign_rooms(array)
   
-  array.each_with_index {|name, room| puts "Hello, #{name}! You'll be assigned to room #{room}!"} = new_array
+  array.each_with_index {|name, room| puts "Hello, #{name}! You'll be assigned to room #{room}!"}
+  
   
 end
