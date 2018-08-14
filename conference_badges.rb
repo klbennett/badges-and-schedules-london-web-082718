@@ -12,12 +12,11 @@ end
 
 def assign_rooms(array)
  array.each_with_index do |name, room| "Hello, #{name}! You'll be assigned to room #{room}!"
- speaker_rooms
 end
 end
 
 def printer(name)
- puts batch_badge_creator
+ puts batch_badge_creator(name)
  puts assign rooms
 end
 
