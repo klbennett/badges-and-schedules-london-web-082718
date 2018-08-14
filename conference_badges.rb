@@ -5,7 +5,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(name)
-array.collect {name
+array.collect { 
 end
 
 def assign_rooms(array)
