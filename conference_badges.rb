@@ -9,5 +9,5 @@ array.each {|item| puts "Hello, my name is #{item}"}
 end
 
 def assign rooms(array)
-  
+  each 
   array.each {|item| puts "Hello, #{name}! You'll be assigned to room #{item}!"}
